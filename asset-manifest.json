@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tata-Landing-Pages/static/css/main.cf2c26cf.css",
+    "main.js": "/Tata-Landing-Pages/static/js/main.98fc383f.js",
+    "index.html": "/Tata-Landing-Pages/index.html",
+    "main.cf2c26cf.css.map": "/Tata-Landing-Pages/static/css/main.cf2c26cf.css.map",
+    "main.98fc383f.js.map": "/Tata-Landing-Pages/static/js/main.98fc383f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf2c26cf.css",
+    "static/js/main.98fc383f.js"
+  ]
+}
