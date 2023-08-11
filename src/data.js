@@ -23,8 +23,8 @@ const slides = [
     id: 3,
     imageType: "watch",
     thumbnailImage: "/assets/images/3.png",
-    bannerImage: "/assets/images/banner2.png",
-    logo: "/assets/images/logo2.png",
+    bannerImage: "/assets/images/banner1.png",
+    logo: "/assets/images/logo1.png",
     timeDurations: "1h 40m • Sci-Fi • ACTION • ADVENTURE 33333",
     banner__description:
       "3333 team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
@@ -43,8 +43,8 @@ const slides = [
     id: 5,
     imageType: "watch",
     thumbnailImage: "/assets/images/5.png",
-    bannerImage: "/assets/images/banner2.png",
-    logo: "/assets/images/logo2.png",
+    bannerImage: "/assets/images/banner1.png",
+    logo: "/assets/images/logo1.png",
     timeDurations: "1h 40m • Sci-Fi • ACTION • ADVENTURE 5555",
     banner__description:
       "A 55555 team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
@@ -63,8 +63,8 @@ const slides = [
     id: 7,
     imageType: "watch",
     thumbnailImage: "/assets/images/7.png",
-    bannerImage: "/assets/images/banner2.png",
-    logo: "/assets/images/logo2.png",
+    bannerImage: "/assets/images/banner1.png",
+    logo: "/assets/images/logo1.png",
     timeDurations: "1h 40m • Sci-Fi • ACTION • ADVENTURE 7777",
     banner__description:
       "A 7777 team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
